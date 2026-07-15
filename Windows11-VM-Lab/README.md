@@ -15,6 +15,7 @@ This project documents the installation of a Windows 11 virtual machine using VM
 - ✅ Configure UEFI Firmware
 ![Configure Uefi Firmware](03-Configure-UEFI-Firmware.jpg)
 - ✅ Configure Virtual TPM
+![Configure Virtual Tpm](04-Configure-Virtual-TPM.jpg)
 - ✅ Complete Windows 11 Installation
 - ✅ Prepare the VM for future Active Directory Labs
 
