@@ -8,8 +8,13 @@ This repository showcases my hands on IT projects and home labs as I build pract
 
 ## Skills
 
+- Virtualization
 - VMware Fusion
-- Windows Administration
+- Windows 11 Installation
+- UEFI Firmware Configuration
+- Virtual TPM
+- Virtual Machine Configuration
+- Windows Deployment
 
 ## Projects
 
