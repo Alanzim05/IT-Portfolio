@@ -13,6 +13,7 @@ This project documents the installation of a Windows 11 virtual machine using VM
 ![Install VMware Fusion](02-Install-VMware-Fusion.jpg)
 - ✅ Create a Windows 11 Virtual Machine
 - ✅ Configure UEFI Firmware
+![Configure Uefi Firmware](03-Configure-UEFI-Firmware.jpg)
 - ✅ Configure Virtual TPM
 - ✅ Complete Windows 11 Installation
 - ✅ Prepare the VM for future Active Directory Labs
