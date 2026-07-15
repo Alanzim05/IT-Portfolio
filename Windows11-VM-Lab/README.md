@@ -9,7 +9,6 @@ This project documents the installation of a Windows 11 virtual machine using VM
 ## Objectives
 
 - ✅ Install VMware Fusion
-  https://github.com/Alanzim05/IT-Portfolio/blob/main/Windows11-VM-Lab/README.md#:~:text=01%2D-,Download,-%2DVMare%2DFusion.jpg
 - ✅ Create a Windows 11 Virtual Machine
 - ✅ Configure UEFI Firmware
 - ✅ Configure Virtual TPM
