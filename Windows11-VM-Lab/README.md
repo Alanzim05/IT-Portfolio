@@ -34,10 +34,11 @@ This project documents the installation of a Windows 11 virtual machine using VM
 
 - Virtualization
 - VMware Fusion
-- Windows Installation
-- UEFI Firmware
+- Windows 11 Installation
+- UEFI Firmware Configuration
 - Virtual TPM
-- Operating System Deployment
+- Virtual Machine Configuration
+- Windows Deployment
 
 ---
 
