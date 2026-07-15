@@ -19,6 +19,7 @@ This project documents the installation of a Windows 11 virtual machine using VM
 - ✅ Complete Windows 11 Installation
 ![Install Windows](05-install-windows11.jpg)
 ![Setup Windows](06-Setup-Windows11.jpg)
+![Windows Desktop](07-Windows-Desktop.png)
 - ✅ Prepare the VM for future Active Directory Labs
 
 ---
