@@ -18,6 +18,7 @@ This project documents the installation of a Windows 11 virtual machine using VM
 ![Configure Virtual Tpm](04-Configure-Virtual-TPM.jpg)
 - ✅ Complete Windows 11 Installation
 ![Install Windows](05-install-windows11.jpg)
+![Setup Windows](06-Setup-Windows11.jpg)
 - ✅ Prepare the VM for future Active Directory Labs
 
 ---
