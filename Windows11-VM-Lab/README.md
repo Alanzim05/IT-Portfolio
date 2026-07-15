@@ -41,12 +41,6 @@ This project documents the installation of a Windows 11 virtual machine using VM
 
 ---
 
-## Project Screenshots
-
-Screenshots will be added in the next step.
-
----
-
 ## Status
 
 ✅ Completed
