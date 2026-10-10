@@ -51,6 +51,7 @@ ipconfig /release
 ipconfig /renew
 The DHCP lease was successfully renewed.
 
+
 ## Results
 
 After renewing the DHCP lease, the workstation received the following network configuration:
