@@ -49,3 +49,36 @@ I ran:
 ```cmd
 ipconfig /release
 ipconfig /renew
+The DHCP lease was successfully renewed.
+
+## Results
+
+After renewing the DHCP lease, the workstation received the following network configuration:
+
+- **IPv4 address:** `10.20.14.88`
+- **Subnet mask:** `255.255.255.0`
+- **Default gateway:** `10.20.14.1`
+- **DNS servers:** `10.20.14.10` and `10.20.14.11`
+
+The workstation no longer had the original APIPA address.
+
+The SysDesks guided scenario confirmed that the machine was fixed.
+
+## Skills Demonstrated
+
+- Windows network troubleshooting
+- IPv4 addressing and APIPA
+- DHCP troubleshooting
+- Command-line diagnostics
+- Network configuration analysis
+- Technical documentation
+- Incident resolution
+
+## Key Takeaway
+
+An APIPA address (`169.254.x.x`) can indicate that a workstation failed to obtain a usable IPv4 configuration through DHCP.
+
+Using `ipconfig /all` helps identify missing network settings, while `ipconfig /release` and `ipconfig /renew` can refresh the DHCP lease.
+
+This exercise provided practical experience diagnosing a simulated network connectivity incident and documenting the troubleshooting process.
+
