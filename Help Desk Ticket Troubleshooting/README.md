@@ -2,55 +2,79 @@
 
 ## Project Overview
 
-Completed a simulated Tier 1 IT support incident using
-the SysDesks help desk simulator.
+This project documents a simulated Tier 1 IT support incident completed using the SysDesks help desk simulator.
 
-The objective was to investigate and resolve a Windows
-workstation's inability to access the internet.
+The objective was to diagnose and resolve a Windows workstation's inability to access the internet.
 
 ## Environment
 
-- Operating System: Simulated Windows workstation
-- Device: Lenovo ThinkPad T14 Gen 4
-- Connection: Ethernet
-- Tools: Command Prompt and ipconfig
-- Platform: SysDesks
+- **Operating System:** Simulated Windows workstation
+- **Device:** Lenovo ThinkPad T14 Gen 4
+- **Network Connection:** Ethernet
+- **Tools:** Command Prompt and Windows IP configuration utilities
+- **Platform:** SysDesks
 
-## Problem
+## Problem Description
 
-The simulated user reported that websites would not load
-and email connectivity was unavailable.
+The simulated user reported that websites would not load and email connectivity was unavailable.
 
-Windows displayed "Unidentified network no internet."
+Windows displayed the following message:
+
+**Unidentified network no internet access**
+
+The workstation had an APIPA address and could not obtain a usable network configuration through DHCP.
 
 ## Initial Diagnosis
 
-I ran `ipconfig /all` to inspect the network configuration.
+I used the following command to inspect the workstation's network configuration:
 
-Findings:
-- IPv4 address: `169.254.23.11`
-- Subnet mask: `255.255.0.0`
-- Default gateway: Missing
-- DNS servers: Missing
-- DHCP: Enabled
+```cmd
+ipconfig /all
+```
 
-The APIPA address indicated that the workstation had
-failed to obtain a usable IPv4 configuration through DHCP.
+The initial results showed:
 
-## Troubleshooting
+- **IPv4 address:** `169.254.23.11`
+- **Subnet mask:** `255.255.0.0`
+- **Default gateway:** Missing
+- **DNS servers:** Missing
+- **DHCP:** Enabled
 
-I attempted to renew the IP configuration.
+The `169.254.x.x` address indicated that Windows had assigned itself an APIPA address after failing to obtain a usable IPv4 configuration through DHCP.
 
-The initial DHCP renewal request timed out.
+Without a valid default gateway, the workstation could not route traffic to external networks.
 
-Following the simulator's guided troubleshooting steps,
+## Troubleshooting Process
+
+### Step 1: Inspect the Network Configuration
+
+I ran `ipconfig /all` to review the Ethernet adapter's IP address, subnet mask, default gateway, DNS servers, and DHCP settings.
+
+### Step 2: Attempt to Renew the DHCP Lease
+
 I ran:
 
 ```cmd
-ipconfig /release
 ipconfig /renew
-The DHCP lease was successfully renewed.
+```
 
+The initial attempt failed because the DHCP request timed out.
+
+### Step 3: Release and Renew the IP Configuration
+
+Following the SysDesks guided troubleshooting instructions, I ran:
+
+```cmd
+ipconfig /release
+```
+
+Then:
+
+```cmd
+ipconfig /renew
+```
+
+The DHCP lease was successfully renewed.
 
 ## Results
 
@@ -70,7 +94,7 @@ The SysDesks guided scenario confirmed that the machine was fixed.
 - Windows network troubleshooting
 - IPv4 addressing and APIPA
 - DHCP troubleshooting
-- Command-line diagnostics
+- Command line diagnostics
 - Network configuration analysis
 - Technical documentation
 - Incident resolution
@@ -82,4 +106,3 @@ An APIPA address (`169.254.x.x`) can indicate that a workstation failed to obtai
 Using `ipconfig /all` helps identify missing network settings, while `ipconfig /release` and `ipconfig /renew` can refresh the DHCP lease.
 
 This exercise provided practical experience diagnosing a simulated network connectivity incident and documenting the troubleshooting process.
-
