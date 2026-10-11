@@ -6,19 +6,14 @@ Welcome to my IT portfolio
 
 This repository showcases my hands on IT projects and home labs as I build practical IT skills.
 
-## Skills
-
-- Virtualization
-- VMware Fusion
-- Windows 11 Installation
-- UEFI Firmware Configuration
-- Virtual TPM
-- Virtual Machine Configuration
-- Windows Deployment
-
 ## Projects
 
-- ✅ Windows 11 Virtual Machine Lab
+### 1. Windows 11 Virtual Machine Lab
+Installed and configured a Windows 11 virtual machine using VMware Fusion.
+
+**Skills:** Virtualization, Windows installation, VMware Fusion.
+
+[View Project](./Windows11-VM-Lab/)
 
 ### 2. Help Desk Ticket Troubleshooting
 Troubleshot a simulated Windows network connectivity incident involving an APIPA address and DHCP lease renewal.
