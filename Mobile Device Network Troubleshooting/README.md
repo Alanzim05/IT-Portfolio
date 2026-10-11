@@ -37,3 +37,25 @@ The tablet was connected to Northline-Corp using its managed device identity cer
 - Mobile device management
 - Application troubleshooting
 - Technical documentation
+
+  ## Screenshots
+
+### 1. Initial Support Ticket
+The warehouse supervisor reported that the Inventory Scan application could not connect to the company service.
+
+![Initial Support Ticket](screenshots/01-initial-ticket.png)
+
+### 2. Network Diagnosis
+The tablet was connected to Northline-Guest, which provided public internet access but not the required corporate network routes.
+
+![Wi-Fi Diagnosis](screenshots/02-wifi-diagnosis.png)
+
+### 3. Corporate Wi-Fi Connected
+Connected the managed tablet to Northline-Corp using its device identity certificate.
+
+![Corporate Wi-Fi Connected](screenshots/03-corporate-wifi-connected.png)
+
+### 4. Inventory Scan Restored
+Verified that Inventory Scan was online, the warehouse catalog was synchronized, and the scanner was ready.
+
+![Inventory Scan Restored](screenshots/04-inventory-scan-restored.png)
