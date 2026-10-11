@@ -19,3 +19,10 @@ This repository showcases my hands on IT projects and home labs as I build pract
 ## Projects
 
 - ✅ Windows 11 Virtual Machine Lab
+
+### 2. Help Desk Ticket Troubleshooting
+Troubleshot a simulated Windows network connectivity incident involving an APIPA address and DHCP lease renewal.
+
+**Skills:** Windows troubleshooting, IPv4, APIPA, DHCP, Command Prompt, technical documentation.
+
+[View Project](./Help%20Desk%20Ticket%20Troubleshooting/)
