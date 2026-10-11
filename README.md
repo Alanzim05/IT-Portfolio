@@ -21,3 +21,11 @@ Troubleshot a simulated Windows network connectivity incident involving an APIPA
 **Skills:** Windows troubleshooting, IPv4, APIPA, DHCP, Command Prompt, technical documentation.
 
 [View Project](./Help%20Desk%20Ticket%20Troubleshooting/)
+
+### 3. Mobile Device Network Troubleshooting
+
+Troubleshot a managed warehouse tablet that could not access the corporate Inventory Scan application. Identified the incorrect Wi-Fi network and restored access by connecting to the managed corporate network.
+
+**Skills:** Wi-Fi troubleshooting, network connectivity, enterprise authentication, mobile device management, and incident documentation.
+
+[View Project](<Mobile Device Network Troubleshooting/README.md>)
