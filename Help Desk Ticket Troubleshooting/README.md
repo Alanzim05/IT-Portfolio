@@ -106,3 +106,17 @@ An APIPA address (`169.254.x.x`) can indicate that a workstation failed to obtai
 Using `ipconfig /all` helps identify missing network settings, while `ipconfig /release` and `ipconfig /renew` can refresh the DHCP lease.
 
 This exercise provided practical experience diagnosing a simulated network connectivity incident and documenting the troubleshooting process.
+
+## Screenshots
+
+### 1. Initial Ticket
+![Initial ticket](screenshots/01-initial-ticket.png)
+
+### 2. Network Diagnosis
+![Network diagnosis](screenshots/02-network-diagnosis.png)
+
+### 3. Successful DHCP Renewal
+![DHCP renewal](screenshots/03-dhcp-renewal.png)
+
+### 4. Successful IP Configuration
+![Successful IP configuration](screenshots/04-successful-ip-configuration.png)
