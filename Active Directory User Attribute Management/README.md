@@ -27,9 +27,13 @@ verify the existing attributes, make the requested changes.
 ## Changes Made
 
 | Attribute | Before | After |
+
 | Job Title | Marketing Coordinator | Senior Marketing Coordinator |
+
 | Telephone | x555-0501 | x555-0502 |
+
 | Department | Marketing | Marketing |
+
 | Office | Austin HQ | Austin HQ |
 
 ## Results
