@@ -30,7 +30,7 @@ Troubleshot a managed warehouse tablet that could not access the corporate Inven
 
 [View Project](<Mobile Device Network Troubleshooting/README.md>)
 
-### 4 Active Directory User Attribute Management
+### 4. Active Directory User Attribute Management
 
 Investigated a simulated help desk incident and updated user attributes
 in Active Directory, including job title and telephone information.
