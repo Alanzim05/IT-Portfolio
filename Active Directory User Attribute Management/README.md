@@ -26,16 +26,9 @@ verify the existing attributes, make the requested changes.
 
 ## Changes Made
 
-| Attribute | Before | After |
-
-| Job Title | Marketing Coordinator | Senior Marketing Coordinator |
-
-| Telephone | x555-0501 | x555-0502 |
-
-| Department | Marketing | Marketing |
-
-| Office | Austin HQ | Austin HQ |
-
+ Attribute Before: Job Title(Marketing Coordinator);Telephone(x555-0501);Department(Marketing);Office(Austin HQ)
+ Attribute After: Job Title(Senior Marketing Coordinator);Telephone(x555-0502);Department(Marketing);Office(Austin HQ)
+ 
 ## Results
 Updated the requested job title and telephone information in the
 simulated Active Directory environment. Verified the updated attributes
