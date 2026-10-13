@@ -35,4 +35,4 @@ Troubleshot a managed warehouse tablet that could not access the corporate Inven
 Investigated a simulated help desk incident and updated user attributes
 in Active Directory, including job title and telephone information.
 
-[View Project](ActiveDirectoryUserAttributeManagement/README.md)
+[View Project](Active%20Directory%20User%20Attribute%20Management/README.md)
