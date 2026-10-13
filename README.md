@@ -48,8 +48,6 @@ in Active Directory, including job title and telephone information.
 
 Resolved a simulated paper jam on a Canyon printer and verified the repair by completing a successful test copy.
 
-**Ticket ID:** INC8554691
-
 **Skills Demonstrated:**
 - Hardware Troubleshooting
 - Printer Support
