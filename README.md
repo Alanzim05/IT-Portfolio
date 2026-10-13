@@ -52,9 +52,6 @@ Resolved a simulated paper jam on a Canyon printer and verified the repair by co
 - Hardware Troubleshooting
 - Printer Support
 - Paper Jam Resolution
-- Front Panel Diagnostics
-- Service Verification
-- Help Desk Ticket Resolution
 
 [View Project](Printer%20Troubleshooting/)
 
