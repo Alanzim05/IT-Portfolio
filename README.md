@@ -53,3 +53,14 @@ Resolved a simulated paper jam on a Canyon printer and verified the repair by co
 
 [View Project](Printer%20Troubleshooting/)
 
+### 6. Email Inbox Troubleshooting
+
+Investigated and resolved a simulated help desk incident involving missing emails in NorthMail. Identified an active Unread filter that was hiding read messages and restored the full inbox view without deleting or moving any emails.
+
+**Skills Demonstrated:**
+- Remote Desktop Support
+- Email Application Troubleshooting
+- Inbox Filter Diagnosis
+- User Data Preservation
+
+[View Project](Email%20Troubleshooting/)
