@@ -64,3 +64,11 @@ Investigated and resolved a simulated help desk incident involving missing email
 - User Data Preservation
 
 [View Project](Email%20Troubleshooting/)
+
+### 7. Windows Search Troubleshooting
+
+Investigated a simulated Windows Search incident. Found that the Windows Search service WSearch was stopped, started the service, and verified that search results began appearing again.
+
+**Skills:** Windows 11 troubleshooting, Task Manager, Windows services, application search.
+
+[View Project](Windows%20Search%20Troubleshooting/)
