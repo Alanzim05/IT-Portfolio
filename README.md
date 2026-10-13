@@ -35,4 +35,28 @@ Troubleshot a managed warehouse tablet that could not access the corporate Inven
 Investigated a simulated help desk incident and updated user attributes
 in Active Directory, including job title and telephone information.
 
+**Skills Demonstrated:**
+- Active Directory User Management
+- User Attribute Updates
+- Account Investigation
+- Incident Documentation
+
 [View Project](Active%20Directory%20User%20Attribute%20Management/README.md)
+
+
+### 5. Printer Troubleshooting
+
+Resolved a simulated paper jam on a Canyon printer and verified the repair by completing a successful test copy.
+
+**Ticket ID:** INC8554691
+
+**Skills Demonstrated:**
+- Hardware Troubleshooting
+- Printer Support
+- Paper Jam Resolution
+- Front Panel Diagnostics
+- Service Verification
+- Help Desk Ticket Resolution
+
+[View Project](Printer%20Troubleshooting/)
+
