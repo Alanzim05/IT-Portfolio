@@ -48,7 +48,7 @@ The department and office location remained unchanged.
 ## Screenshots
 
 ### 1. Initial Ticket
-![Initial ticket](screenshots/01-initial-ticket.png)
+
 
 ### 2. Directory Information Before Changes
 ![Directory before changes](screenshots/02-directory-before.png)
