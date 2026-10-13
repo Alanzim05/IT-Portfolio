@@ -27,6 +27,7 @@ verify the existing attributes, make the requested changes.
 ## Changes Made
 
  - Attribute Before: Job Title(Marketing Coordinator);Telephone(x555-0501);Department(Marketing);Office(Austin HQ)
+  
  - Attribute After: Job Title(Senior Marketing Coordinator);Telephone(x555-0502);Department(Marketing);Office(Austin HQ)
  
 ## Results
