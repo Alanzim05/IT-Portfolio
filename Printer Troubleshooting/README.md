@@ -31,19 +31,19 @@ The paper jam error cleared after following the front panel instructions. A test
 ## Screenshots
 
 ### Screenshot 1: Initial Ticket
-File: `01 initial ticket.png`
+![Initial Ticket](screenshots/01%20initial%20ticket.png)
 
 ### Screenshot 2: Printer Front Panel
-File: `02 printer front panel.png`
+![Printer Front Panel](screenshots/02%20printer%20front%20panel.png)
 
 ### Screenshot 3: Paper Jam Instructions
-File: `03 paper jam instructions.png`
+![Paper Jam Instructions](screenshots/03%20paper%20jam%20instructions.png)
 
-### Screenshot 4: Printer After Clearing the Jam
-File: `04 printer error cleared.png`
+### Screenshot 4: Printer Error Cleared
+![Printer Error Cleared](screenshots/04%20printer%20error%20cleared.png)
 
 ### Screenshot 5: Successful Test Copy
-File: `05 successful test copy.png`
+![Successful Test Copy](screenshots/05%20successful%20test%20copy.png)
 
 ### Screenshot 6: Resolved Ticket
-File: `06 resolved ticket.png`
+![Resolved Ticket](screenshots/06%20resolved%20ticket.png)
