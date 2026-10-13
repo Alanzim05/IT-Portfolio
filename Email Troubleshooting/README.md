@@ -28,3 +28,17 @@ Removed the incorrect inbox view filter. The additional messages became visible 
 - Email application troubleshooting
 - Inbox filter diagnosis
 - User data preservation
+
+## Screenshots
+
+### Screenshot 1: Initial Help Desk Ticket
+![Initial Help Desk Ticket](screenshots/01%20initial%20ticket.png)
+
+### Screenshot 2: NorthMail With Unread Filter
+![NorthMail With Unread Filter](screenshots/02%20unread%20filter.png)
+
+### Screenshot 3: Inbox After Removing Filter
+![Inbox After Removing Filter](screenshots/03%20inbox%20restored.png)
+
+### Screenshot 4: Completed Help Desk Ticket
+![Completed Help Desk Ticket](screenshots/04%20completed%20ticket.png)
