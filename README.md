@@ -72,3 +72,11 @@ Investigated a simulated Windows Search incident. Found that the Windows Search 
 **Skills:** Windows 11 troubleshooting, Task Manager, Windows services, application search.
 
 [View Project](Windows%20Search%20Troubleshooting/)
+
+### 8. AV Setup Troubleshooting Lab
+
+Configured and tested Microsoft Teams meeting audio, joined a meeting from a mobile device, and practiced sharing a PowerPoint presentation.
+
+**Skills:** AV Support, Microsoft Teams, Audio Configuration, Screen Sharing
+
+[View Project](./AV%20Setup%20Troubleshooting%20Lab/README.md)
