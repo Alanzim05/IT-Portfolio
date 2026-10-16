@@ -48,4 +48,4 @@ Successfully started a Teams meeting, tested audio devices, joined from a mobile
 - Meeting setup and coordination
 - Screen sharing
 - AV support
-- 
+  
