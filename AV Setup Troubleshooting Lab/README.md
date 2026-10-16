@@ -16,7 +16,8 @@ This project demonstrates practical experience setting up Microsoft Teams meetin
 ### 1. Microsoft Teams Meeting Setup
 
 Started a Microsoft Teams meeting and configured browser permissions for microphone and camera access.
-![Microsoft Teams Meeting Setup](./01%20Teams%20Opened.png)
+### 1. Microsoft Teams Meeting Setup
+![Microsoft Teams Meeting Setup](./screenshots/01%20Teams%20Opened.png)
 
 ### 2. Audio Configuration
 
