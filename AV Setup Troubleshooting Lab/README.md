@@ -4,14 +4,6 @@
 
 This project demonstrates practical experience setting up Microsoft Teams meetings, configuring audio devices, joining meetings from a mobile device, and sharing presentations.
 
-## Objectives
-
-- Configure Microsoft Teams meetings.
-- Test microphone and speaker functionality.
-- Connect a mobile device to a Teams meeting.
-- Share a PowerPoint presentation.
-- Understand basic conference room AV workflows.
-
 ## Tools and Equipment
 
 - MacBook Pro with Apple M2
@@ -19,33 +11,40 @@ This project demonstrates practical experience setting up Microsoft Teams meetin
 - PowerPoint for the web
 - Smartphone
 
-## Implementation
+## Project Tasks
 
 ### 1. Microsoft Teams Meeting Setup
 
-Started a Microsoft Teams meeting and configured the necessary browser permissions for microphone and camera access.
+Started a Microsoft Teams meeting and configured browser permissions for microphone and camera access.
+
+![Teams Meeting Setup](Screenshots/01 Teams Opened.png)
 
 ### 2. Audio Configuration
 
-Selected the available microphone and speaker devices and verified that they were functioning correctly.
+Configured and tested the microphone and speakers to verify that the audio devices were functioning correctly.
+
+![Audio Configuration](Screenshots/05 Audio Configuration Test.png)
 
 ### 3. Mobile Device Integration
 
-Joined the meeting from a smartphone to simulate a remote participant in a hybrid meeting.
+Joined the Teams meeting from a smartphone to simulate a remote participant in a hybrid meeting.
 
-### 4. Presentation Sharing
+![Phone Joined Meeting](Screenshots/07 Phone Joined Meeting.png)
 
-Shared a PowerPoint presentation through Microsoft Teams to demonstrate screen sharing during a meeting.
+### 4. PowerPoint Presentation Sharing
+
+Shared a PowerPoint presentation through Microsoft Teams to practice screen sharing during a meeting.
+
+![PowerPoint Sharing](Screenshots/08 Share PowerPoint.png)
 
 ## Results
 
-Successfully started a Teams meeting, tested audio devices, joined from a mobile device, and shared a presentation.
+Successfully started a Teams meeting, tested audio devices, joined from a mobile device, and shared a PowerPoint presentation.
 
 ## Skills Demonstrated
 
-- Audio and video configuration
-- Microsoft Teams support
-- Meeting setup and coordination
-- Screen sharing
-- AV support
-  
+- Microsoft Teams Support
+- Audio Device Configuration
+- Meeting Setup and Coordination
+- Screen Sharing
+- AV Support
