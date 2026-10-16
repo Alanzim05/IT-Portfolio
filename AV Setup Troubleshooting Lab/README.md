@@ -43,5 +43,4 @@ Successfully started a Teams meeting, tested audio devices, joined from a mobile
 - Microsoft Teams Support
 - Audio Device Configuration
 - Meeting Setup and Coordination
-- Screen Sharing
 - AV Support
