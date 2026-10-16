@@ -73,7 +73,7 @@ Investigated a simulated Windows Search incident. Found that the Windows Search 
 
 [View Project](Windows%20Search%20Troubleshooting/)
 
-### 8. AV Setup Troubleshooting Lab
+### 8. AV Setup Troubleshooting
 
 Configured and tested Microsoft Teams meeting audio, joined a meeting from a mobile device, and practiced sharing a PowerPoint presentation.
 
