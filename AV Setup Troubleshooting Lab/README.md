@@ -17,25 +17,29 @@ This project demonstrates practical experience setting up Microsoft Teams meetin
 
 Started a Microsoft Teams meeting and configured browser permissions for microphone and camera access.
 
-![Teams Meeting Setup](Screenshots/01 Teams Opened.png)
+![Teams Meeting](Screenshots/04%20Teams%20Meeting%20Started.png)
 
 ### 2. Audio Configuration
 
-Configured and tested the microphone and speakers to verify that the audio devices were functioning correctly.
+Configured and tested Camera,microphone and speakers to verify that the devices were functioning correctly.
 
-![Audio Configuration](Screenshots/05 Audio Configuration Test.png)
+![Audio Configuration](Screenshots/05%20Audio%20Configuration%20Test.png)
+
+![Camera Test](Screenshots/06%20Camera%20Test.png)
+
 
 ### 3. Mobile Device Integration
 
 Joined the Teams meeting from a smartphone to simulate a remote participant in a hybrid meeting.
 
-![Phone Joined Meeting](Screenshots/07 Phone Joined Meeting.png)
+![Phone Joined Meeting](Screenshots/07%20Phone%20Joined%20Meeting.png)
+
 
 ### 4. PowerPoint Presentation Sharing
 
 Shared a PowerPoint presentation through Microsoft Teams to practice screen sharing during a meeting.
 
-![PowerPoint Sharing](Screenshots/08 Share PowerPoint.png)
+![PowerPoint Sharing](Screenshots/08%20Share%20PowerPoint.png)
 
 ## Results
 
