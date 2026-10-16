@@ -22,19 +22,18 @@ Started a Microsoft Teams meeting and configured browser permissions for microph
 ### 2. Audio Configuration
 
 Configured and tested Camera,microphone and speakers to verify that the devices were functioning correctly.
-![Audio Configuration and Testing](./02%20Audio%20Configuration%20Test.png)
-![Camera Configuration](./03%20Camera%20Test.png)
+![Audio Configuration and Testing](./screenshots/02%20Audio%20Configuration%20Test.png)
+![Camera Test](./screenshots/03%20Camera%20Test.png)
 
 ### 3. Mobile Device Integration
 
 Joined the Teams meeting from a smartphone to simulate a remote participant in a hybrid meeting.
-![Phone Joined Meeting](./04%20Phone%20Joined%20Meeting.png)
+![Phone Joined Meeting](./screenshots/04%20Phone%20Joined%20Meeting.png)
 
 ### 4. PowerPoint Presentation Sharing
 
 Shared a PowerPoint presentation through Microsoft Teams to practice screen sharing during a meeting.
-![PowerPoint Sharing](./05%20Share%20PowerPoint.png)
-
+![PowerPoint Sharing](./screenshots/05%20Share%20PowerPoint.png)
 ## Results
 
 Successfully started a Teams meeting, tested audio devices, joined from a mobile device, and shared a PowerPoint presentation.
