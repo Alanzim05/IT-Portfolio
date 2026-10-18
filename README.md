@@ -92,4 +92,4 @@ application access with the requester.
 **Skills:** Server Administration, Service Troubleshooting,
 Incident Management, Application Availability
 
-[View Project](./Application-Service-Recovery/)
+[View Project](./Business%20Application%20Service%20Recovery/)
