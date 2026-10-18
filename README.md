@@ -80,3 +80,16 @@ Configured and tested Microsoft Teams meeting audio, joined a meeting from a mob
 **Skills:** AV Support, Microsoft Teams, Audio Configuration, Screen Sharing
 
 [View Project](./AV%20Setup%20Troubleshooting%20Lab/README.md)
+
+
+### 9. Business Application Service Recovery
+
+Troubleshot a business application outage using the SysDesks IT
+Simulator. Investigated server health, restored service availability,
+verified that all services were running and confirmed successful
+application access with the requester.
+
+**Skills:** Server Administration, Service Troubleshooting,
+Incident Management, Application Availability
+
+[View Project](./SysDesks-Application-Service-Recovery/)
